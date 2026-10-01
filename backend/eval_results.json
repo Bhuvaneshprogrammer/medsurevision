@@ -1,0 +1,51 @@
+{
+  "note": "Tampered images are synthetic and self-made for internal testing only. Registry results are simulated. These results do not constitute clinical validation.",
+  "total_images": 100,
+  "total_untampered": 20,
+  "total_tampered": 80,
+  "false_safe_count": 6,
+  "false_safe_rate_pct": 7.5,
+  "abstention_count": 80,
+  "abstention_rate_pct": 80.0,
+  "latency_ms": {
+    "p50": 10.3,
+    "p95": 4914.68,
+    "mean": 1231.53,
+    "min": 8.01,
+    "max": 13974.61
+  },
+  "confusion_matrix": {
+    "untampered": {
+      "low_risk": 2,
+      "needs_verification": 1,
+      "high_suspicion": 3,
+      "insufficient_quality": 14
+    },
+    "tampered": {
+      "low_risk": 6,
+      "needs_verification": 3,
+      "high_suspicion": 9,
+      "insufficient_quality": 62
+    }
+  },
+  "per_label_counts": {
+    "low_risk": 8,
+    "needs_verification": 4,
+    "high_suspicion": 12,
+    "insufficient_quality": 76
+  },
+  "per_class_metrics": {
+    "untampered": {
+      "precision_pct": 25.0,
+      "recall_pct": 10.0,
+      "f1": 14.29,
+      "support": 20
+    },
+    "tampered": {
+      "precision_pct": 80.43,
+      "recall_pct": 92.5,
+      "f1": 86.04,
+      "support": 80
+    }
+  }
+}

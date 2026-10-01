@@ -1,0 +1,21 @@
+filename,name,batch,expiry
+synthetic_001_Dolo_650.jpg,Dolo 650,MH-2033,08/2027
+synthetic_002_Calpol_500.jpg,Calpol 500,DL-2500,06/2028
+synthetic_003_Augmentin_625.jpg,Augmentin 625,MH-9916,04/2027
+synthetic_004_Azithral_500.jpg,Azithral 500,MH-5969,11/2027
+synthetic_005_Combiflam.jpg,Combiflam,GJ-5185,04/2028
+synthetic_006_Pan_40.jpg,Pan 40,GJ-2320,11/2027
+synthetic_007_Shelcal_500.jpg,Shelcal 500,KA-3471,12/2027
+synthetic_008_Metformin_500.jpg,Metformin 500,MH-7068,05/2027
+synthetic_009_Amlokem_5.jpg,Amlokem 5,TN-7116,09/2027
+synthetic_010_Cetzine.jpg,Cetzine,GJ-1533,08/2027
+synthetic_011_Dolo_650.jpg,Dolo 650,TN-8629,08/2026
+synthetic_012_Calpol_500.jpg,Calpol 500,TN-5407,08/2026
+synthetic_013_Augmentin_625.jpg,Augmentin 625,KA-5763,07/2027
+synthetic_014_Azithral_500.jpg,Azithral 500,DL-9636,11/2027
+synthetic_015_Combiflam.jpg,Combiflam,MH-1190,09/2026
+synthetic_016_Pan_40.jpg,Pan 40,KA-8687,03/2026
+synthetic_017_Shelcal_500.jpg,Shelcal 500,GJ-7785,10/2027
+synthetic_018_Metformin_500.jpg,Metformin 500,MH-3012,05/2026
+synthetic_019_Amlokem_5.jpg,Amlokem 5,UP-1708,11/2026
+synthetic_020_Cetzine.jpg,Cetzine,UP-3477,05/2027
